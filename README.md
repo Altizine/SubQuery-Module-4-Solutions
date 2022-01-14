@@ -1,14 +1,14 @@
 # subquery Module 4 solution
 
-## for ex1
-![mod4 ex1](https://user-images.githubusercontent.com/66467667/148680638-c343a00d-dcc3-4d89-9239-9218bf4cf743.png)
-## for ex2
-![mod4 ex2](https://user-images.githubusercontent.com/66467667/148680671-8f652114-9e5f-467b-a93a-7ccd4a3b5fa4.png)
-## for ex3
-![mod4 ex3-1](https://user-images.githubusercontent.com/66467667/148680676-1c141a3b-9e60-4f3e-bf24-f1c483c781c8.png)
-![mod4 ex3-2](https://user-images.githubusercontent.com/66467667/148680678-d107fd3d-a7ae-4f3e-9b22-07807768e929.png)
-## for ex4
-![mod4 ex4](https://user-images.githubusercontent.com/66467667/148680684-3fe88688-23c5-4f3a-a3ed-b5b160496e7e.png)
+## Ex1-Screenshot
+![mod4 ex1](https://github.com/Altizine/SubQuery-Module-4-Solutions/blob/f5c1431dde47eff1444c32e3d7e2c12c7f88fe88/Ex1.png)
+## Ex2-Screenshot
+![mod4 ex2](https://github.com/Altizine/SubQuery-Module-4-Solutions/blob/f5c1431dde47eff1444c32e3d7e2c12c7f88fe88/Ex2.png)
+## Ex3-Screenshot
+![mod4 ex3-1](https://github.com/Altizine/SubQuery-Module-4-Solutions/blob/4b1519545347f96b17aea7ee41a36225f0f9f131/Ex3_1.png)
+![mod4 ex3-2](https://github.com/Altizine/SubQuery-Module-4-Solutions/blob/4b1519545347f96b17aea7ee41a36225f0f9f131/Ex3_2.png)
+## Ex4--Screenshot
+![mod4 ex4](https://github.com/Altizine/SubQuery-Module-4-Solutions/blob/4b1519545347f96b17aea7ee41a36225f0f9f131/Ex4.png)
 
 
 
